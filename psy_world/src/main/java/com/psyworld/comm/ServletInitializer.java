@@ -1,4 +1,4 @@
-package com.psyworld.web;
+package com.psyworld.comm;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
